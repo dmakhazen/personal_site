@@ -1,1 +1,5 @@
-
+title: title_config
+#logo:
+description: description_config
+show_downloads: false
+theme: jekyll-theme-minima
