@@ -4,4 +4,3 @@ description: description_config
 show_downloads: false
 remote_theme: jekyll/minima
 google_analytics: G-KEYE7EGEKW
-plugins: jekyll-remote-theme
