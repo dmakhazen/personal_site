@@ -2,7 +2,7 @@ title: title_config
 #logo:
 description: description_config
 show_downloads: false
-remote_theme: jekyll/minima
+remote_theme: jekyll/minimalss
 google_analytics: G-KEYE7EGEKW
 header_pages:
   - how_to_make_jekyll_site_with_GA4.md
