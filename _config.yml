@@ -10,3 +10,4 @@ header_pages:
   - portfolio.md
   - sss.md
   - page.md
+paginate: 5
